@@ -1,0 +1,9 @@
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiac\bin\Debug\TamGiac.exe
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiac\bin\Debug\TamGiac.pdb
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiac\obj\x86\Debug\TamGiac.Form1.resources
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiac\obj\x86\Debug\TamGiac.Properties.Resources.resources
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiac\obj\x86\Debug\TamGiac.csproj.GenerateResource.cache
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiac\obj\x86\Debug\TamGiac.csproj.CoreCompileInputs.cache
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiac\obj\x86\Debug\TamGiac.exe
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiac\obj\x86\Debug\TamGiac.pdb
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiac\obj\x86\Debug\TamGiac.csproj.AssemblyReference.cache

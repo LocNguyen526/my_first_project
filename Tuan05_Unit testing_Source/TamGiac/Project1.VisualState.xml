@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\Project1.nunit</TopNode>
+  <SelectedNode>[0-1011]TamGiacTest.TestTamGiac.testHamLoaiTamGiac</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\Project1.nunit" Expanded="true" />
+    <Node UniqueName="[0-1012]F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiacTest\bin\Debug\TamGiacTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1013]TamGiacTest" Expanded="true" />
+    <Node UniqueName="[0-1001]TamGiacTest.TestDiem" Expanded="true" />
+    <Node UniqueName="[0-1007]TamGiacTest.TestTamGiac" Expanded="true" />
+    <Node UniqueName="[0-1025]F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiacTest\bin\Debug\TamGiacTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1026]TamGiacTest" Expanded="true" />
+  </Nodes>
+</VisualState>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\Project1.nunit" total="9" errors="0" failures="3" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2021-11-04" time="06:35:09">
+  <environment nunit-version="2.7.1.0" clr-version="2.0.50727.9157" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="F:\BT\Nam3\KTPM\NUnit-2.7.1\bin" machine-name="DESKTOP-831U96T" user="L340" user-domain="DESKTOP-831U96T" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Project" name="F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\Project1.nunit" executed="True" result="Failure" success="False" time="0.191" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiacTest\bin\Debug\TamGiacTest.dll" executed="True" result="Failure" success="False" time="0.186" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="TamGiacTest" executed="True" result="Failure" success="False" time="0.186" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="TestDiem" executed="True" result="Failure" success="False" time="0.150" asserts="0">
+                <results>
+                  <test-case name="TamGiacTest.TestDiem.testHamKhoangCach" executed="True" result="Success" success="True" time="0.087" asserts="1" />
+                  <test-case name="TamGiacTest.TestDiem.testHamKhoiTaoBangChuoi" executed="True" result="Failure" success="False" time="0.021" asserts="2">
+                    <failure>
+                      <message><![CDATA[  Loi o Y
+  Expected: 8
+  But was:  5.0d
+]]></message>
+                      <stack-trace><![CDATA[at TamGiacTest.TestDiem.testHamKhoiTaoBangChuoi() in F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiacTest\TestDiem.cs:line 33
+]]></stack-trace>
+                    </failure>
+                  </test-case>
+                  <test-case name="TamGiacTest.TestDiem.testHamKhoiTaoCoThamSo" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                  <test-case name="TamGiacTest.TestDiem.testHamKhoiTaoMacDinh" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                  <test-case name="TamGiacTest.TestDiem.testHamToString" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+              <test-suite type="TestFixture" name="TestTamGiac" executed="True" result="Failure" success="False" time="0.024" asserts="0">
+                <results>
+                  <test-case name="TamGiacTest.TestTamGiac.testHamChuVi" executed="True" result="Failure" success="False" time="0.001" asserts="1">
+                    <failure>
+                      <message><![CDATA[  Loi chu vi
+  Expected: 13.729473667624422d
+  But was:  15.811388300841898d
+]]></message>
+                      <stack-trace><![CDATA[at TamGiacTest.TestTamGiac.testHamChuVi() in F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiacTest\TestTamGiac.cs:line 50
+]]></stack-trace>
+                    </failure>
+                  </test-case>
+                  <test-case name="TamGiacTest.TestTamGiac.testHamKhoiTaoCoThamSo" executed="True" result="Success" success="True" time="0.000" asserts="6" />
+                  <test-case name="TamGiacTest.TestTamGiac.testHamKhoiTaoMacDinh" executed="True" result="Success" success="True" time="0.000" asserts="6" />
+                  <test-case name="TamGiacTest.TestTamGiac.testHamLoaiTamGiac" executed="True" result="Failure" success="False" time="0.001" asserts="1">
+                    <failure>
+                      <message><![CDATA[  Khong phai tam giac
+  Expected: -1
+  But was:  0
+]]></message>
+                      <stack-trace><![CDATA[at TamGiacTest.TestTamGiac.testHamLoaiTamGiac() in F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiacTest\TestTamGiac.cs:line 59
+]]></stack-trace>
+                    </failure>
+                  </test-case>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

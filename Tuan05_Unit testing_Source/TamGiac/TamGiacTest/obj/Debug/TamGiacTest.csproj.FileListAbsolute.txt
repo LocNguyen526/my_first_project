@@ -1,0 +1,11 @@
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiacTest\bin\Debug\TamGiacTest.dll
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiacTest\bin\Debug\TamGiacTest.pdb
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiacTest\bin\Debug\nunit.framework.dll
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiacTest\bin\Debug\TamGiac.exe
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiacTest\bin\Debug\TamGiac.pdb
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiacTest\bin\Debug\nunit.framework.xml
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiacTest\obj\Debug\TamGiacTest.csproj.AssemblyReference.cache
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiacTest\obj\Debug\TamGiacTest.csproj.CoreCompileInputs.cache
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiacTest\obj\Debug\TamGiacTest.csproj.CopyComplete
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiacTest\obj\Debug\TamGiacTest.dll
+F:\BT\Nam3\KTPM\Tuan05_Unit testing_Source\TamGiac\TamGiacTest\obj\Debug\TamGiacTest.pdb
